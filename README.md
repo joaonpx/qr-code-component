@@ -1,0 +1,23 @@
+<h1 align="center">
+  🔗 <b>Frontend Mentor - QR code component</b>
+</h1>
+
+<p align="center">
+  <img alt="Frontend Mentor - QR code component" src="./design/desktop-preview.jpg" width="100%">
+</p>
+
+## 🚀 Built with
+
+- HTML
+- CSS
+
+## 💻 Project
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
+
+- **[Frontend Mentor | QR code component](https://google.com/)**
+
+## Author
+
+- Website - [Add your name here](https://npxlinks.vercel.app)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
