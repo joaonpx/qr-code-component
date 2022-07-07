@@ -19,5 +19,5 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://npxlinks.vercel.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Npx](https://npxlinks.vercel.app)
+- Frontend Mentor - [@npx08](https://www.frontendmentor.io/profile/npx08)
