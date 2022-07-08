@@ -1,5 +1,5 @@
 <h1 align="center">
-  🔗 <b>Frontend Mentor - QR code component</b>
+  ✔️ <b>Frontend Mentor - QR code component</b>
 </h1>
 
 <p align="center">
