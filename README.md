@@ -1,9 +1,9 @@
 <h1 align="center">
-  ◻️ <b>Frontend Mentor - QR code component</b>
+  ◻️ <b>QR code component</b>
 </h1>
 
 <p align="center">
-  <img alt="Frontend Mentor - QR code component" src="./design/desktop-preview.jpg" width="100%">
+  <img alt="QR code component" src="./design/desktop-preview.jpg" width="100%">
 </p>
 
 ## 🚀 Built with
@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## 🔍 Demo
 
-- **[Frontend Mentor | QR code component](https://qrcodecomponentchallenge.vercel.app/)**
+- **[QR code component](https://qrcodecomponentchallenge.vercel.app/)**
 
 ## Author
 
